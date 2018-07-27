@@ -1,0 +1,16 @@
+name = Clown Head Bomb
+preview = clown_preview.bmp
+dir = clown
+model = clown.gmf
+type = weapons
+base = Weapon
+styles = Default
+description = One hit, KABOOM! No more clown head, no more bot.
+damagesounds = sounds\clown.wav
+decal = batter01.tga 0 0 0 5 5 0
+attachsound = sounds\cmp_generic.wav
+concussion = 3712
+piercing = 3712
+standard = 1
+hitpoints = 1
+fracture = 0

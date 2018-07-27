@@ -1,0 +1,17 @@
+name = Acid Spike
+preview = acidspike_preview.bmp
+dir = acidspike
+model = acidspike.gmf
+type = weapons
+base = Weapon
+styles = Default
+description = A lethal spike coated in hydrochloric acid, made by Team Bio-Botics. Does constant damage as it eats through bots. Hitpoints are 3000, piercing is 1.2, and frequency is 10.
+damagesounds = sounds\acidspike.wav
+decal = batter01.tga 0 0 1 1.5 1.5 1
+attachsound = sounds\cmp_generic.wav
+concussion = 0
+piercing = 1.2
+standard = 1
+frequency = 10
+passthru = acid
+hitpoints = 3000

@@ -1,0 +1,16 @@
+name = Spent Nuclear Fuel
+preview = barrel_preview.bmp
+dir = barrel
+model = barrel.gmf
+type = weapons
+base = Component
+passthru = barrel01
+styles = Full, ebarrel.txt, Empty
+description = More heavy. Gooder for smash stuff. Hitpoints 100000. Damage 9.6.
+damageable = true
+hitpoints = 100000
+fracture = 1000
+standard = 1
+Sort = -10
+damagesounds = Sounds/barrel_collision, Sounds/barrel_collision2.wav
+material = metal(9.6)

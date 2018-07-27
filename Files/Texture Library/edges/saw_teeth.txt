@@ -1,0 +1,4 @@
+Filename: saw_teeth.tga
+Preview: saw_teeth.bmp
+Length ratio (world pixels per file pixel): .02
+Width (world pixels): 24

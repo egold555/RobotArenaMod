@@ -1,0 +1,16 @@
+name = Biggie Burger
+preview = burger_preview.bmp
+dir = trophies
+model = burger.gmf
+type = weapons
+base = Weapon
+passthru = Hamburger
+description = Hammerburger...3500 hitpoints, concussion of 2, and a little bit of lettucey action with frequency of 2. Also, you can ruin your opponent's paint job by smearing condiments on it.
+hitpoints = 3500
+sort = 0
+attachsound = sounds\hamburger.wav
+standard = 1
+concussion = 2
+piercing = 0
+frequency = 2
+decal = hamburger.tga 0 1 0 0.5 0.5 0

@@ -1,0 +1,16 @@
+name = Mini Magnet
+preview = stack_preview.bmp
+dir = StackMagnet
+model = stackmagnet.gmf
+type = mechanics
+base = Magnet
+description = Makes for a sticky situation with stack powers.
+attachsound = sounds\zap_charge.wav
+firesound = sounds\minimagnet.wav
+elecMaxInOutRate = -1
+passthru = magnet_collision
+damagesounds = sounds\zapped_1.wav, sounds\zapped_2.wav, sounds\zapped_3.wav
+hitpoints = 2000
+material = metal(1)
+alwaysvisible = true
+standard = 1

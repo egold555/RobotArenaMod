@@ -1,0 +1,14 @@
+name = Shield Generator
+preview = shieldgen_preview.bmp
+dir = shieldgen
+model = shieldgen_s.gmf
+type = extras
+base = Component
+passthru = cannon_collision
+description = This high-tech device creates a stationary energy barrier that allows its user to freely pass through, but blocks everything else.  Available in several sizes.
+hitpoints = 1
+fracture = 9000000001
+standard = 1
+damagesounds = sounds\zapped_2.wav
+attachsound = sounds\shieldgen.wav
+material = metal(0.6)

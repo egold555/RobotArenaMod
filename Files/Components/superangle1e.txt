@@ -1,0 +1,17 @@
+name = F300 Tornado Motor
+preview = superangle_preview.bmp
+dir = superangle
+model = superangle1.gmf
+type = mechanics
+base = SpinMotor
+master = superangle
+passthru = axle_collision
+attaching = axle
+styles = Standard, superangle2e.txt, Reverse
+description = Unimaginably fast spin motor designed by Unnatural Disaster that will destroy things with nature's fury! WARNING: CHEATING
+power = 300 300
+elecMaxInOutRate = -500
+sort = 2
+motorsound = sounds\supermotor.wav
+attachsound = sounds\cmp_generic.wav
+standard = 1

@@ -1,0 +1,16 @@
+name = Crusher
+preview = crusher_preview.bmp
+dir = crusher
+model = crusher.gmf
+type = mechanics
+base = ServoMotor
+master = etek
+passthru = axle_collision
+attaching = axle
+description = UNSTOPPABLE
+power = 4 1000
+elecmaxinoutrate = -800
+motorsound = sounds\motorloop4.wav
+attachsound = sounds\cmp_generic.wav
+standard = 1
+torque = 999999

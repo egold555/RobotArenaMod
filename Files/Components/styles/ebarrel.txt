@@ -1,0 +1,17 @@
+name = Nuclear Fuel Barrel
+preview = barrel_preview.bmp
+dir = barrel
+model = barrel.gmf
+type = weapons
+base = Component
+passthru = barrel01
+styles = Default
+description = Less heavy. Still good for smash stuff. Hitpoints 50000. Damage 3.2.
+damageable = true
+hitpoints = 50000
+fracture = 500
+standard = 1
+Sort = -10
+damagesounds = Sounds/barrel_collision, Sounds/barrel_collision2.wav
+material = metal(3.2)
+mass = 250

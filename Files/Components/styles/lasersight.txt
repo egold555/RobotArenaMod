@@ -1,0 +1,12 @@
+name = Laser Sight
+preview = laserrifle_preview.bmp
+dir = laserrifle
+model = lasersight.gmf
+type = weapons
+base = Component
+description = Attach this laser sight device to the lower front of your laser rifle to make it easier to aim. The sight will reach for 200 meters.
+hitpoints = 4000
+standard = 1
+Sort = -10
+damagesounds = sounds\chorus_metal_tink.wav
+attachsound = sounds\cmp_generic.wav

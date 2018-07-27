@@ -1,0 +1,17 @@
+name = Robo-Arm
+preview = roboarm_preview.bmp
+dir = roboarm
+model = roboarmms.gmf
+type = mechanics
+base = ServoMotor
+description = The robo-arm is a powerful servo motor with a long arm. Multi-jointed arms can easily be made without pushing the connecting limit. Comes in two sizes with three lengths each.
+master = robo
+passthru = arm
+power = 4 48000
+elecmaxinoutrate = -200
+damagesounds = sounds\hzd_hammer_hit2.wav
+attachsound = Sounds\announcers\Misc_BotWasChickenLittled.wav
+hitpoints = 4000
+standard = 1
+Sort = 20
+runsequence = Sounds\redbird_spinup.wav, Sounds\roboarmm.wav,Sounds\redbird_spindown.wav

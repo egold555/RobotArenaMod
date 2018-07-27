@@ -1,0 +1,11 @@
+name = Mega Adapter
+preview = pboost_preview.bmp
+dir = pboost
+model = pboost.gmf
+type = extenders
+base = Component
+passthru = extender_round_collision
+description = All purpose. Mount batteries, spikes, wheels, anything on it. Multiple connection points allow for overlapping some components on it. Use Ctrl to elevate components as you would on the chassis.
+standard = 1
+styles = Neutral, defXYZ.txt, Distorted
+attachsound = sounds\cmp_attach.wav

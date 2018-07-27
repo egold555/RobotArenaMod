@@ -1,0 +1,12 @@
+name = Loudspeaker
+preview = speaker_preview.bmp
+dir = speaker
+model = speaker.gmf
+type = extras
+base = SpinMotor
+description = Honk and blast out music while doing your battle!
+attachsound = sounds\cmp_generic.wav
+standard = 1
+power = 0.001 0.001
+motorsound = Sounds\intro_music\tool_rage.wav
+elecmaxinoutrate = -80

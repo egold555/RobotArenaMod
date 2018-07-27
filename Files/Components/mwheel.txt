@@ -1,0 +1,17 @@
+name = Monster Wheel
+preview = monster_preview.bmp
+dir = mwheel
+model = mwheel.gmf
+type = mobility
+base = Wheel
+passthru = monsterwheel
+styles = Default
+description = Giant monster truck tires that will squash your opponents like... a squash.  Use the off-center connection point for an especially bouncy ride.
+contact = wheel2_rbodies
+resistance = .2
+grip = 1
+hitpoints = 5000
+material = metal(10)
+damagesounds = sounds\rubber_collision.wav,sounds\rubber_collision2.wav
+attachsound = sounds\cmp_wheels.wav
+standard = 1

@@ -1,0 +1,14 @@
+name = Fish
+preview = fish_preview.bmp
+dir = fish
+model = fish.gmf
+type = weapons
+base = AxleMount
+master = fishtail
+styles = Standard
+description = There is no satisfaction quite like slapping your opponent into submission with a large fish.
+hitpoints = 10000
+material = metal(2)
+fracture = 50
+standard = 1
+damagesounds = Sounds/slap1.wav, Sounds/slap2.wav

@@ -1,0 +1,15 @@
+name = Sheet Wedge
+preview = sw_preview.bmp
+dir = ghost
+model = uberwej.gmf
+type = extras
+base = Component
+passthru = flipper_collision
+styles = Standard
+description = A long, flat sheet metal wedge.  Connect them together to make a bigger sheet.  Good for flippers, dustpans, or extra armor plating.
+damageable = true
+hitpoints = 2500
+fracture = 25
+standard = 1
+Sort = -10
+damagesounds = Sounds/titanium_hit.wav

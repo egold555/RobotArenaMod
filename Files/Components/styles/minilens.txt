@@ -1,0 +1,14 @@
+name = Focusing Lens
+preview = mlaser_preview.bmp
+dir = minilaser
+model = minilens.gmf
+type = weapons
+base = Cannon
+description = You can use up to 7 lenses to further focus the laser beam for maximum power.  Attach them starting at the base and going outward.  Make sure the energy ball is facing forward.  After each lens is attached, fire it with a button to attach the next one.
+hitpoints = 1000
+fracture = 30
+attachsound = sounds\cmp_generic.wav
+damagesounds = sounds\chorus_metal_tink.wav
+firesound = sounds\laser.wav
+standard = 1
+airmaxinoutrate = -0.1

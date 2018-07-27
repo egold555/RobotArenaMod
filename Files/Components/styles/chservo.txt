@@ -1,0 +1,17 @@
+name = Rooster Servo
+preview = chicken_preview.bmp
+dir = chicken
+model = chicken.gmf
+type = mechanics
+base = ServoMotor
+master = motor
+passthru = axle, motor
+attaching = axle
+description = A micro sized powerful servo.
+attachsound = sounds\chickens.wav
+standard = 1
+power = 3 48000
+hitpoints = 3000
+motorsound = Sounds\motorloop2.wav
+elecmaxinoutrate = -10
+alwaysvisible = true

@@ -1,0 +1,14 @@
+name = Focusing Lens
+preview = laserrifle_preview.bmp
+dir = laserrifle
+model = laserlens.gmf
+type = weapons
+base = Cannon
+description = You can use up to 15 lenses to further focus the laser beam for maximum power.  Attach them starting at the base and going outward.  Make sure the energy ball is facing forward.  After each lens is attached, fire it with a button to attach the next one.
+hitpoints = 8000
+standard = 1
+Sort = -10
+damagesounds = sounds\chorus_metal_tink.wav
+attachsound = sounds\cmp_generic.wav
+firesound = sounds\laser.wav
+airmaxinoutrate = -0.1

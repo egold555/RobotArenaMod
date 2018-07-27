@@ -1,0 +1,12 @@
+name = Outside Mounted Battery
+dir = outbat
+type = power
+base = Battery
+model = outbat.gmf
+preview = outbat_preview.bmp
+description = Gives good power. Note: The game gets messy and quits if the thing falls off. The thing is invincible so it won't fall of on its own. Do NOT attach to a breakable component.
+electotal = 38000
+elecmaxinoutrate = 600
+attachsound = sounds\cmp_battery.wav
+standard = 1
+fracture = 1000000

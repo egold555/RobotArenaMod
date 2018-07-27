@@ -1,0 +1,11 @@
+name = Wildfire Battery
+dir = wildfire
+type = power
+base = Battery
+model = wildfire.gmf
+preview = wildfire_preview.bmp
+description = Dishes out tons of power but doesn't last as long as other batteries. Developed by Unnatural Disaster.
+electotal = 28000
+elecmaxinoutrate = 10000
+attachsound = sounds\wildfire.wav
+standard = 1

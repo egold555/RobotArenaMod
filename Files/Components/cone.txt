@@ -1,0 +1,16 @@
+name = Traffic Cone
+preview = cone_preview.bmp
+dir = cone
+model = cone.gmf
+type = weapons
+base = Weapon
+styles = Default
+description = Tear through solid steel with this menacing... traffic cone... drill? It has 2000 hit points (rubbery shock absorbing) and piercing of 2. It's made of rubber, so it won't get damaged from hitting the walls.
+damagesounds = sounds\cone.wav
+decal = pierce02.tga 0 0 0 1 1 0
+attachsound = sounds\cmp_generic.wav
+concussion = 0
+piercing = 2
+standard = 1
+hitpoints = 2000
+material = rubber(2)

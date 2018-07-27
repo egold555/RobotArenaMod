@@ -1,0 +1,15 @@
+name = Mini Laser
+preview = mlaser_preview.bmp
+dir = minilaser
+model = minilaser.gmf
+type = weapons
+base = Cannon
+styles = Main Unit, minilens.txt, Focusing Lens
+description = A miniaturized version of the heavy-duty laser rifle that will fit on your bot easier, but will not be as powerful.
+hitpoints = 2000
+attachsound = sounds\cmp_generic.wav
+damagesounds = sounds\chorus_metal_tink.wav
+firesound = sounds\laser.wav
+airmaxinoutrate = -0.1
+standard = 1
+Sort = -10

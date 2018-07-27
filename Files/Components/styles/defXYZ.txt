@@ -1,0 +1,9 @@
+name = Distortion Field
+preview = pboost_preview.bmp
+dir = pboost
+model = deformerXYZ.gmf
+type = extenders
+base = Component
+passthru = extender_round_collision
+description = The Distortion Field will distort the dimensions of attached components in strange, unpredictable ways.  Attach stuff on the big connection point to make it bigger, and attach stuff on the small connection point to shrink it.
+standard = 1

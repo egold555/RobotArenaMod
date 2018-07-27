@@ -1,0 +1,13 @@
+name = El Tonno Eye
+preview = ete_preview.bmp
+dir = eltonnos
+model = eteye2.gmf
+type = extras
+base = Component
+passthru = drum_collision
+description = The eyes for the special El Tonno robots.
+hitpoints = 250
+fracture = 30
+standard = 1
+Sort = 10
+damagesounds = Sounds/frc_generic2, Sounds/frc_generic4.wav, Sounds/frc_generic5.wav

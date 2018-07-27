@@ -1,0 +1,16 @@
+name = Energy Spike
+preview = nrgspike_preview.bmp
+dir = nrgspike
+model = nrgspike_r2.gmf
+type = weapons
+base = Weapon
+description = This weapon projects a short beam of focused light.  While very powerful, it won't carry any kinetic energy.  The red version is the least powerful, but the hardest to break.
+damagesounds = sounds\nrgspike.wav
+attachsound = sounds\cmp_generic.wav
+concussion = 0
+piercing = 1
+standard = 1
+frequency = 10
+passthru = klijin
+hitpoints = 1
+fracture = 1000

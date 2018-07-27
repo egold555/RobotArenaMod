@@ -1,0 +1,14 @@
+name = Fortified Extender
+preview = fortex_preview.bmp
+dir = fortex
+model = fortex3.gmf
+type = extenders
+base = Component
+passthru = sq_extender
+description = "IT IS FORTIFIED WITH ZORGANITE." -Cinnamon Toast Crunch Alien.  3000 hitpoints and also does a little bit of damage.
+attachsound = sounds\cmp_generic.wav
+standard = 1
+material = metal(.2)
+hitpoints = 3000
+fracture = 50
+mass = 24

@@ -1,0 +1,17 @@
+name = Cinder Block
+dir = cinderblock
+type = weapons
+base = Weapon
+model = block.gmf
+preview = block_preview.bmp
+styles = Texture 1, cinderblock2.txt, Texture 2, cinderblock3.txt, Texture 3
+description = Heavy cinder block. Mountable as a hammer. Concussion of 2.5 and hitpoints of 5000
+damagesounds = sounds\cinderblock2.wav
+decal = batter02.tga 0 0 1 .5 .5 0
+attachsound = sounds\cinderblock1.wav
+standard = 1
+passthru = cinderblock_collision
+concussion = 2.5
+piercing = 0
+hitpoints = 5000
+alwaysvisible = true

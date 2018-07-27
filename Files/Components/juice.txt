@@ -1,0 +1,12 @@
+name = Fruit Punch
+preview = punch_preview.bmp
+dir = trophies
+model = juicecan.gmf
+type = power
+base = Battery
+styles = Default
+description = This battery will supply plenty of juice for your robot.
+electotal = 20000
+elecmaxinoutrate = 500
+attachsound = sounds\cmp_battery2.wav
+standard = 1

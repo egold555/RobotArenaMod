@@ -1,0 +1,15 @@
+name = Summon: Refrigerator
+preview = fridge_preview.bmp
+dir = fridge
+model = fridgedrop.gmf
+type = mechanics
+base = Cannon
+description = Hey, what's that falling from the sky?
+attachsound = sounds\holeinone2.wav
+standard = 1
+hidden = 0
+firesound = sounds\fridgedrop.wav
+airmaxinoutrate = -0.1
+material = metal(4)
+damagesounds = sounds\hzd_comp_hit.wav
+hitpoints = 120000

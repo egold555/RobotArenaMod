@@ -1,0 +1,10 @@
+name = Antimatter Neutron Star Piece
+dir = neutrons
+type = extras
+base = Component
+model = antineutronb.gmf
+preview = ns_preview.bmp
+description = The ultimate tool for making super heavyweights.
+attachsound = sounds\cmp_removal.wav
+standard = 1
+sort = 1

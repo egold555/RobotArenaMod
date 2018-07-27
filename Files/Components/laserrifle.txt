@@ -1,0 +1,15 @@
+name = Laser Rifle
+preview = laserrifle_preview.bmp
+dir = laserrifle
+model = laserrifle.gmf
+type = weapons
+base = Cannon
+styles = Main Unit, laserlens.txt, Focusing Lens, lasersight.txt, Laser Sight
+description = This laser rifle fires a concentrated burst of high-frequency electromagnetic radiation that turns surrounding matter to superheated plasma.  In other words, it's an unbelievably awesome weapon.  The laser requires a small amount of compressed air for its advanced power system.
+hitpoints = 8000
+standard = 1
+Sort = -10
+damagesounds = sounds\chorus_metal_tink.wav
+attachsound = sounds\cmp_generic.wav
+firesound = sounds\laser.wav
+airmaxinoutrate = -0.1

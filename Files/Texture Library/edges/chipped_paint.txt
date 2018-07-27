@@ -1,0 +1,4 @@
+Filename: chipped_paint.tga
+Preview: chip_preview.bmp
+Length ratio (world pixels per file pixel): .02
+Width (world pixels): 24

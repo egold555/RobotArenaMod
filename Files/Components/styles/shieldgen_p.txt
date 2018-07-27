@@ -1,0 +1,14 @@
+name = Portable Shield Generator
+preview = shieldgen_preview.bmp
+dir = shieldgen
+model = shieldgen_p.gmf
+type = extras
+base = Cannon
+passthru = cannon_collision
+description = This device creates a new shield around your bot every time you activate it.  Requires a small amount of air to work.  WARNING: Does not work in player slot 2 or 3, and also stops working if it intersects any walls or if you re-activate it after any component on a bot breaks.
+hitpoints = 9001
+standard = 1
+damagesounds = sounds\zapped_2.wav
+attachsound = sounds\shieldgen.wav
+firesound = sounds\shieldgen.wav
+airmaxinoutrate = -1

@@ -1,0 +1,9 @@
+name = Smart Zone Ballast
+preview = szb_preview.bmp
+dir = szballast
+model = szballast4.gmf
+type = extras
+base = SmartZone
+passthru = nifty_battery
+description = Ballast you can put anywhere you want, even inside other components or kilometers outside your chassis.  This million-kg weight will probably work best inside your bot, though, where you can get all the mass of a fridge bot with none of those cumbersome fridges.
+standard = 1

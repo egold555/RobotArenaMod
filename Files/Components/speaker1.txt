@@ -1,0 +1,13 @@
+name = Loudspeaker
+preview = speaker_preview.bmp
+dir = speaker
+model = speaker.gmf
+type = extras
+base = SpinMotor
+styles = Aggression, speaker2.txt, Embattled, speaker3.txt, Hopp Club, speaker4.txt, Smell Glue, speaker5.txt, Tool Rage, speaker6.txt, What Game, speaker7.txt, Drone Loop
+description = Honk and blast out music while doing your battle!
+attachsound = sounds\cmp_generic.wav
+standard = 1
+power = 0.001 0.001
+motorsound = Sounds\intro_music\aggression.wav
+elecmaxinoutrate = -80

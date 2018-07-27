@@ -1,0 +1,16 @@
+name = Sweet Tasty Grapes
+preview = grapecrate_preview.bmp
+dir = Grapecrate
+model = grapecrate2.gmf
+type = extras
+base = Cannon
+passthru = cannon_collision
+styles = Default
+description = Big ol' clunky crate o' grapes.  It can now fire grapes like a cannon!  And because they're grapes, they will continuously bounce around the arena and never stop moving.  16000 hitpoints means they'll also make good shields.
+hitpoints = 16000
+standard = 1
+Sort = -10
+damagesounds = sounds\crate.wav
+attachsound = sounds\holeinone.wav
+firesound = sounds\whoop.wav
+airmaxinoutrate = -10

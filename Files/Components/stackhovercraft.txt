@@ -1,0 +1,14 @@
+name = Mini Hovercraft Engine
+preview = minihover_preview.bmp
+dir = StackHover
+model = stackhover.gmf
+type = mechanics
+base = Hovercraft
+attachsound = sounds\cmp_generic.wav
+description = Up, up, and away! Put 'em on normally with the lower connection point, and clip 'em on to stuff with the upper connection point. You can even stack them to make super boosters!
+power = 14
+standard = 1
+alwaysvisible = true
+firesound = sounds\hovercraft.wav
+airmaxinoutrate = -1
+passthru = hovercraft_collision

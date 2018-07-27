@@ -1,0 +1,4 @@
+Filename: danger_edge.tga
+Preview: danger_preview.bmp
+Length ratio (world pixels per file pixel): .1
+Width (world pixels): 5

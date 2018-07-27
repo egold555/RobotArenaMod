@@ -1,0 +1,16 @@
+name = Ghost Wedge
+preview = gw_preview.bmp
+dir = ghost
+model = ghostwejl.gmf
+type = extras
+base = Component
+styles = Light, ghostwejm.txt, Medium, ghostwejh.txt, Heavy, ghostwejvh.txt, Very Heavy
+description = The Ghost wedge projects a special force field that can pass through the arena floor but not other bots, making it perfect for a mean wedge.  Because it uses new and imperfect technology, however, it will occasionally snag and pop out of the floor.  Connect them together to make a wider wedge.
+damagesounds = sounds\zapped_2.wav
+attachsound = sounds\cmp_generic.wav
+material = arenium(.2)
+standard = 1
+passthru = disc_collision
+normal = true 0 0 1  0 1 0
+hitpoints = 2500
+fracture = 25

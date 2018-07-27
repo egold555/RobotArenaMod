@@ -1,0 +1,16 @@
+name = Earthquake Heavy Burst Motor
+preview = earthquake_preview.bmp
+dir = earthquake
+model = earthquake.gmf
+type = mechanics
+base = BurstMotor
+master = bmotor_body
+passthru = axle_collision
+styles = Default
+description = A powerful burst motor put under extreme tension, crafted by Unnatural Disaster. WARNING: CHEATING
+elecMaxInOutRate = -200
+burst = 0 64 192
+power = 32 96
+firesound = sounds\hellraiser_trigger.wav
+attachsound = sounds\cmp_generic.wav
+standard = 1

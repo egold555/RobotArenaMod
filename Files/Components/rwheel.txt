@@ -1,0 +1,16 @@
+name = Rocket Wheel
+preview = rwheel_preview.bmp
+dir = rwheel
+model = rwheel.gmf
+type = mobility
+base = Wheel
+passthru = rocketwheel
+styles = Default
+description = With these ultra-grippy wheels, you'll be able to move even a heavyweight with just 2 angle motors for drive.
+contact = wheel2_rbodies
+resistance = .1
+grip = 6
+hitpoints = 1000
+damagesounds = sounds\rubber_collision.wav,sounds\rubber_collision2.wav
+attachsound = sounds\cmp_wheels.wav
+standard = 1

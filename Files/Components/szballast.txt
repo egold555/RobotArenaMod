@@ -1,0 +1,10 @@
+name = Smart Zone Ballast
+preview = szb_preview.bmp
+dir = szballast
+model = szballast1.gmf
+type = extras
+base = SmartZone
+passthru = nifty_battery
+styles = Light, szballast2.txt, Medium, szballast3.txt, Heavy, szballast4.txt, Ridiculous
+description = Ballast you can put anywhere you want, even inside other components or kilometers outside your chassis.  Put some weight WAY out there and watch the physics go crazy.
+standard = 1

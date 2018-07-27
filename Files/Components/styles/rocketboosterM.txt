@@ -1,0 +1,17 @@
+name = Rocket Jet
+preview = rocketbooster_preview.bmp
+dir = rocketbooster
+model = rocketboosterM.gmf
+type = extras
+base = ServoPiston
+description = A rocket jet can be used to propel a bot in any direction with a small amount of air power. It can be wired with a button or an analog using the Extend option.
+damagesounds = sounds\steel_collision.wav
+hitpoints = 4000
+attachsound = sounds\cmp_generic.wav
+standard = 1
+passthru = shaft
+airmaxinoutrate = -1
+power = 1000 80
+master = body
+attaching = shaft
+prismatic = body, shaft, 0, 0, 1, 0, 10, 0.8

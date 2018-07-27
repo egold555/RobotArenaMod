@@ -1,0 +1,15 @@
+name = Refridgerator
+preview = fridge_preview.bmp
+dir = fridge
+model = fridge.gmf
+type = extras
+base = Component
+styles = Fridge, fridgedrop.txt, Summon
+description = Straight from the Robot Wars Arena, this fridge is big, heavy, powerful, and cold. Rather invincible with 120000 hitpoints.
+passthru = fridge
+damagesounds = sounds\hzd_comp_hit.wav
+hitpoints = 120000
+standard = 1
+Sort = -20
+material = metal(4)
+alwaysvisible = true
